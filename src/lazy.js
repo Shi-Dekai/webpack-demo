@@ -1,3 +1,3 @@
 export default function lazy() {
-    console.log('我是一个懒加载')
+    alert('你瞅啥呢？')
 }
